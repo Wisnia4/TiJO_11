@@ -10,6 +10,6 @@ describe('getDescendingNumbers', function (){
 });
 describe('factorial', function (){
     it('should return factorial', function ()    {
-        expect(app.factorial(3)).to.eql(66);
+        expect(app.factorial(3)).to.eql(6);
     });
 });
